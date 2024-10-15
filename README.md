@@ -1,4 +1,4 @@
-# Analise de dados Exploratoria sobre os  Incendios Florestais no Brasil
+# Analise de dados  sobre os  Incendios Florestais no Brasil 2012 - 2023
 ![matt-howard-eAKDzK4lo4o-unsplash](https://github.com/user-attachments/assets/cea6badd-5adf-4a44-9980-c731e1c2a947)
 
 ## Conteúdo
@@ -14,7 +14,7 @@
 Este conjunto de dados apresenta a distribuição de incêndios florestais no Brasil de 2012 a 2023, segmentado por ano, estado e mês. Você pode baixar as informações desse dataset no site do ''https://terrabrasilis.dpi.inpe.br/''
 
 ## Metas e objetivos
-Analisar a distribuição e evolução dos incêndios florestais no Brasil entre 2012 até 2023, buscando identificar padrões sazonais, regiões mais afetadas ,períodos de maior incidência e Mapear a distribuição geográfica para entender e compreender como está distribuido os incendios no Brasil.
+Analisar a distribuição e evolução dos incêndios florestais no Brasil entre 2012 até 2023, buscando identificar padrões sazonais, regiões mais afetadas ,períodos de maior incidência e Mapear a distribuição geográfica para entender e compreender como está distribuido os incendios em todo o Brasil.
 
 ## Features
 | Coluna          | Descrição                                                   |
