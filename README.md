@@ -1,4 +1,4 @@
-# Analise de dados  sobre os  Incendios Florestais no Brasil 2012 - 2023
+# Incendios Florestais no Brasil 2012 - 2023
 ![matt-howard-eAKDzK4lo4o-unsplash](https://github.com/user-attachments/assets/cea6badd-5adf-4a44-9980-c731e1c2a947)
 
 ## Conteúdo
