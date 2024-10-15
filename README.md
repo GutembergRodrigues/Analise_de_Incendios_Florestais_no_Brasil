@@ -7,7 +7,7 @@
 - [Metas e objetivos](#metas-e-objetivos)
 - [Features](#features)
 - [Ferramentas utilizadas](#ferramentas-utilizadas)
-- [Resultados](#insights)
+- [Insights](#insights)
 - [Plano de Ação](#plano-de-ação)
 
 ## Introdução
